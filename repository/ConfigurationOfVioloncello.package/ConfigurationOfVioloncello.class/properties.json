@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfVioloncello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfVioloncello",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
