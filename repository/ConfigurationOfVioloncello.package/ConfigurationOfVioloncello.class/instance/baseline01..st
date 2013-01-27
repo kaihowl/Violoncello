@@ -4,7 +4,7 @@ baseline01: spec
 
 	spec for: #'common' do: [
 		spec blessing: #'baseline'.
-		spec repository: 'ftp://modsys@devdojo.de/packages'.
+		spec repository: 'ftp://devdojo.de/packages'.
 		spec 
 			package: 'Violoncello-Core';
 			package: 'Violoncello-Tests' with: [ spec requires: #('Violoncello-Core') ].
