@@ -4,9 +4,9 @@ version01: spec
 
 	spec for: #'common' do: [
 		spec blessing: #'release'.
-		spec description: 'First stable version'.
-		spec author: 'Kaihowl'.
-		spec timestamp: '1/27/2013 13:04'.
+		spec description: ''.
+		spec author: 'sebastianhillig'.
+		spec timestamp: '1/24/2013 20:18'.
 		spec 
-			package: 'Violoncello-Core' with: 'Violoncello-Core-Kaihowl.5';
-			package: 'Violoncello-Tests' with: 'Violoncello-Tests-Kaihowl.5'. ].
+			package: 'Violoncello-Core' with: 'Violoncello-Core-sebastianhillig.1';
+			package: 'Violoncello-Tests' with: 'Violoncello-Tests-sebastianhillig.1'. ].

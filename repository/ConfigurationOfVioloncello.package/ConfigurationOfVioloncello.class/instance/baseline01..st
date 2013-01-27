@@ -8,4 +8,6 @@ baseline01: spec
 		spec 
 			package: 'Violoncello-Core';
 			package: 'Violoncello-Tests' with: [ spec requires: #('Violoncello-Core') ].
-		spec group: 'default' with: #('Violoncello-Core' 'Violoncello-Tests' ). ].
+		spec group: 'default' with: #('Violoncello-Core' 'Violoncello-Tests' );
+			group: 'Tests' with: #('Violoncello-Tests');
+			group: 'Core' with: #('Violoncello-Core'). ].
