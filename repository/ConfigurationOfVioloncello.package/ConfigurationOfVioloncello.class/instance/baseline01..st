@@ -4,7 +4,7 @@ baseline01: spec
 
 	spec for: #'common' do: [
 		spec blessing: #'baseline'.
-		spec repository: 'github://kaihowl/violoncello:configuration'.
+		spec repository: 'github://kaihowl/Violoncello:configuration'.
 		spec 
 			package: 'Violoncello-Core';
 			package: 'Violoncello-Tests' with: [ spec requires: #('Violoncello-Core') ].
