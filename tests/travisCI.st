@@ -1,0 +1,1 @@
+Metacello new  baseline: 'Violoncello';  repository: 'filetree://', MetacelloBuilderTravisCI gitPath, '/Violoncello/packages';  load.TravisCIHarness  value: #( 'Violoncello' )  value: 'TravisCISuccess.txt'   value: 'TravisCIFailure.txt'. 
