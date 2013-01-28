@@ -1,1 +1,1 @@
-Metacello new  configuration: 'Violoncello';  repository: 'filetree://', MetacelloBuilderTravisCI gitPath, '/Violoncello/repository';  load.TravisCIHarness  value: #( 'ConfigurationOfVioloncello' )  value: 'TravisCISuccess.txt'   value: 'TravisCIFailure.txt'. 
+Metacello new  configuration: 'Violoncello';  repository: 'filetree://', MetacelloBuilderTravisCI gitPath, '/Violoncello/repository';  load: #bleedingEdge .TravisCIHarness  value: #( 'ConfigurationOfVioloncello' )  value: 'TravisCISuccess.txt'   value: 'TravisCIFailure.txt'. 
