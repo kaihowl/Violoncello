@@ -1,0 +1,14 @@
+{
+	"category" : "Violoncello-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VViolin",
+	"pools" : [
+		 ],
+	"super" : "VInstrument",
+	"type" : "normal" }
