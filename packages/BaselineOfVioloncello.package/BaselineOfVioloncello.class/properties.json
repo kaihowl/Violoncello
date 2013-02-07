@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfVioloncello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfVioloncello",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
