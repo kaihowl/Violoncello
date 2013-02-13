@@ -1,5 +1,5 @@
 as yet unclassified
 someMethod
 
-	| temp |
-	temp := ExternalPipe new.
+	| pipe |
+	pipe := ExternalPipe new.
